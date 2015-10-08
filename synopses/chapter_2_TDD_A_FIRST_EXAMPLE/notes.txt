@@ -17,5 +17,8 @@
    // the test will pass
  - redesign your code 
  
+
+ Each test is independent.
+ Each test must set up its own context.
  
 
