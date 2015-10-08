@@ -1,0 +1,20 @@
+ Uncle Bob's Three Rules of TDD
+ ==============================
+
+ - write production code only to make a failing test pass
+ - write no more of a unit test that sufficient to fail,
+   compilation failures are failures
+ - write only the production code needed to pass the one failing test
+
+ These rules can be transformed
+ - write a new test
+   // the test will be not compiled,
+ - write the production code only for test compilation
+   // the test will be compiled
+   // the test will fail
+ - write the production code to pass the test
+   // the test will pass
+ - redesign your code 
+ 
+ 
+
