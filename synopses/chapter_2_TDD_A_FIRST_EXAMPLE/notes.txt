@@ -10,6 +10,7 @@
  - write a new test
    // the test will be not compiled,
  - write the production code only for test compilation
+   but failing when running
    // the test will be compiled
    // the test will fail
  - write the production code to pass the test

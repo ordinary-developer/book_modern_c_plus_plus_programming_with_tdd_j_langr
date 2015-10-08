@@ -1,0 +1,1 @@
+/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wall    CMakeFiles/test.dir/SoundexTest.cpp.o  -o test  -L/home/ivan/libraries/gmock-1.7.0/my_build  -L/home/ivan/libraries/gmock-1.7.0/gtest/my_build -rdynamic -lpthread -lgmock -lgtest -Wl,-rpath,/home/ivan/libraries/gmock-1.7.0/my_build:/home/ivan/libraries/gmock-1.7.0/gtest/my_build 
