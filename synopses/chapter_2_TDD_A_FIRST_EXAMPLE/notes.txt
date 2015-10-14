@@ -31,4 +31,4 @@
 
  Google Mock instantiates the fixture class one per test.
 
-
+ The rule of thumb for TDD is one assert per test. 
