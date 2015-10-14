@@ -20,3 +20,6 @@ TEST_F(SoundexEncoding, ReplacesConsonantsWithAppropriateDigits) {
     ASSERT_THAT(soundex.encode("Ax"), testing::Eq("A200"));
 }
 
+TEST_F(SoundexEncoding, IgnoresNonAlpabetics) {
+    ASSERT_THAT(soundex.encode("A#"), testing::Eq("A000"));
+}
