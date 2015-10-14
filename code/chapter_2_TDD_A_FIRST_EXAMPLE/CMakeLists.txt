@@ -9,6 +9,7 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -Wall")
 set(sources
         main.cpp
         SoundexTest.cpp
+        Soundex.hpp
    )
 add_executable(test_application ${sources})
 target_link_libraries(test_application pthread)

@@ -417,6 +417,8 @@ gtest/internal/gtest-port.h
 /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/Soundex.hpp
 string
 -
+unordered_map
+-
 
 /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
 gmock/gmock.h
