@@ -16,7 +16,7 @@
    // the test will fail
  - write the production code to pass the test
    // the test will pass
- - redesign your code 
+ - redesign your code and your tests (if necessary)
  
 
  Each test is independent.
