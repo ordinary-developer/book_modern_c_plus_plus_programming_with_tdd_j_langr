@@ -33,7 +33,7 @@ class Soundex {
         }
 
         bool isComplete(const std::string& encoding) const {
-            encoding.length() == MaxCodeLength - 1;
+            return encoding.length() == MaxCodeLength - 1;
         }
 
         std::string encodedDigit(char letter) const {
