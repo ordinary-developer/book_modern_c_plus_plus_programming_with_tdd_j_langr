@@ -414,9 +414,13 @@ gtest/internal/gtest-linked_ptr.h
 gtest/internal/gtest-port.h
 /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gtest/internal/gtest-port.h
 
-/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
+/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/Soundex.hpp
 string
 -
+
+/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
 gmock/gmock.h
 /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/gmock/gmock.h
+Soundex.hpp
+/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/Soundex.hpp
 
