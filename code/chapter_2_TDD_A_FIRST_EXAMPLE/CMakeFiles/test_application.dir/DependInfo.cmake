@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp" "/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir/SoundexTest.cpp.o"
-  "/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp" "/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir/main.cpp.o"
+  "/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp" "/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir/SoundexTest.cpp.o"
+  "/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp" "/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

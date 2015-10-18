@@ -35,10 +35,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE
+CMAKE_SOURCE_DIR = /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE
+CMAKE_BINARY_DIR = /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE
 
 # Include any dependencies generated for this target.
 include CMakeFiles/test_application.dir/depend.make
@@ -51,17 +51,17 @@ include CMakeFiles/test_application.dir/flags.make
 
 CMakeFiles/test_application.dir/main.cpp.o: CMakeFiles/test_application.dir/flags.make
 CMakeFiles/test_application.dir/main.cpp.o: main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles $(CMAKE_PROGRESS_1)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles $(CMAKE_PROGRESS_1)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/test_application.dir/main.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/test_application.dir/main.cpp.o -c /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/test_application.dir/main.cpp.o -c /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp
 
 CMakeFiles/test_application.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_application.dir/main.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp > CMakeFiles/test_application.dir/main.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp > CMakeFiles/test_application.dir/main.cpp.i
 
 CMakeFiles/test_application.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_application.dir/main.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp -o CMakeFiles/test_application.dir/main.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp -o CMakeFiles/test_application.dir/main.cpp.s
 
 CMakeFiles/test_application.dir/main.cpp.o.requires:
 .PHONY : CMakeFiles/test_application.dir/main.cpp.o.requires
@@ -74,17 +74,17 @@ CMakeFiles/test_application.dir/main.cpp.o.provides.build: CMakeFiles/test_appli
 
 CMakeFiles/test_application.dir/SoundexTest.cpp.o: CMakeFiles/test_application.dir/flags.make
 CMakeFiles/test_application.dir/SoundexTest.cpp.o: SoundexTest.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles $(CMAKE_PROGRESS_2)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object CMakeFiles/test_application.dir/SoundexTest.cpp.o"
-	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/test_application.dir/SoundexTest.cpp.o -c /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
+	/usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/test_application.dir/SoundexTest.cpp.o -c /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
 
 CMakeFiles/test_application.dir/SoundexTest.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/test_application.dir/SoundexTest.cpp.i"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp > CMakeFiles/test_application.dir/SoundexTest.cpp.i
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp > CMakeFiles/test_application.dir/SoundexTest.cpp.i
 
 CMakeFiles/test_application.dir/SoundexTest.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/test_application.dir/SoundexTest.cpp.s"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp -o CMakeFiles/test_application.dir/SoundexTest.cpp.s
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp -o CMakeFiles/test_application.dir/SoundexTest.cpp.s
 
 CMakeFiles/test_application.dir/SoundexTest.cpp.o.requires:
 .PHONY : CMakeFiles/test_application.dir/SoundexTest.cpp.o.requires
@@ -123,6 +123,6 @@ CMakeFiles/test_application.dir/clean:
 .PHONY : CMakeFiles/test_application.dir/clean
 
 CMakeFiles/test_application.dir/depend:
-	cd /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/test_application.dir/depend
 

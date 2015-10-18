@@ -35,8 +35,8 @@ CMakeFiles/test_application.dir/SoundexTest.cpp.o
  /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gmock-generated-internal-utils.h
  /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gmock-internal-utils.h
  /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gmock-port.h
- /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/Soundex.hpp
- /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
+ /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/Soundex.hpp
+ /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/SoundexTest.cpp
 CMakeFiles/test_application.dir/main.cpp.o
  /home/ivan/libraries/gmock-1.7.0/gtest/include/gtest/gtest-death-test.h
  /home/ivan/libraries/gmock-1.7.0/gtest/include/gtest/gtest-message.h
@@ -71,4 +71,4 @@ CMakeFiles/test_application.dir/main.cpp.o
  /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gmock-generated-internal-utils.h
  /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gmock-internal-utils.h
  /home/ivan/libraries/gmock-1.7.0/include/gmock/internal/gmock-port.h
- /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp
+ /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/main.cpp

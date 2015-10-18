@@ -1,1 +1,1 @@
-/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir
+/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles/test_application.dir

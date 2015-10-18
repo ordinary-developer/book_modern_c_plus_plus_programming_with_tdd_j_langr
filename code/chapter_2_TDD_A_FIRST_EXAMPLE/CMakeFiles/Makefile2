@@ -47,10 +47,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE
+CMAKE_SOURCE_DIR = /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE
+CMAKE_BINARY_DIR = /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE
 
 #=============================================================================
 # Target rules for target CMakeFiles/test_application.dir
@@ -59,7 +59,7 @@ CMAKE_BINARY_DIR = /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIR
 CMakeFiles/test_application.dir/all:
 	$(MAKE) -f CMakeFiles/test_application.dir/build.make CMakeFiles/test_application.dir/depend
 	$(MAKE) -f CMakeFiles/test_application.dir/build.make CMakeFiles/test_application.dir/build
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles  1 2
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles  1 2
 	@echo "Built target test_application"
 .PHONY : CMakeFiles/test_application.dir/all
 
@@ -69,9 +69,9 @@ all: CMakeFiles/test_application.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/test_application.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/test_application.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/CMakeFiles 0
 .PHONY : CMakeFiles/test_application.dir/rule
 
 # Convenience name for target.

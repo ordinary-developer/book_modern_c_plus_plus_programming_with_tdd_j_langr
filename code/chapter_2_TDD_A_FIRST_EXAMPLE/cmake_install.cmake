@@ -1,4 +1,4 @@
-# Install script for directory: /home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE
+# Install script for directory: /home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -38,7 +38,7 @@ else()
   set(CMAKE_INSTALL_MANIFEST "install_manifest.txt")
 endif()
 
-file(WRITE "/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/${CMAKE_INSTALL_MANIFEST}" "")
+file(WRITE "/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/${CMAKE_INSTALL_MANIFEST}" "")
 foreach(file ${CMAKE_INSTALL_MANIFEST_FILES})
-  file(APPEND "/home/ivan/work/c++_langr/repository/code/chapter_2_TDD_A_FIRST_EXAMPLE/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
+  file(APPEND "/home/ivan/work/c++/langr/modern_c_plus_plus_programming_with_tdd_j_langr/code/chapter_2_TDD_A_FIRST_EXAMPLE/${CMAKE_INSTALL_MANIFEST}" "${file}\n")
 endforeach()
