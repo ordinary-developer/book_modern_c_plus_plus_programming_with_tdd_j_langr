@@ -52,3 +52,7 @@ TEST_F(SoundexEncoding, UppercasesFirstLetter) {
 TEST_F(SoundexEncoding, IgnoresCasesWhenEncodingConsonants) {
     ASSERT_THAT(soundex.encode("BCDL"), testing::Eq(soundex.encode("Bcdl")));
 }
+
+TEST_F(SoundexEncoding, CombinesDuplicatecodesWhen2ndLetterDuplicates1st) {
+    ASSERT_THAT(soundex.encode("Bbcd"), testing::Eq("B230"));
+}
